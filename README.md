@@ -8,5 +8,5 @@ Example in use
 
 Using two browsers you can log a dom object to the Console, using SignalR it will send it to another machine removing any circular references.
 
-http://www.tomharris.net/MiniProjects/RemoteConsole
+http://www.tomharris.co.uk/MiniProjects/RemoteConsole
 
